@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="validation.ValidationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-15T05:36:26" hostname="easterfandeMacBook-Pro.local" time="0.293">
+  <properties/>
+  <testcase name="nullValidation" classname="validation.ValidationTest" time="0.293"/>
+  <system-out><![CDATA[user id can not be null
+]]></system-out>
+  <system-err><![CDATA[Feb 15, 2020 1:36:26 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 6.0.16.Final
+]]></system-err>
+</testsuite>
